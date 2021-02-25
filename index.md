@@ -8,3 +8,11 @@ layout: default
 ##### Header 5
 ###### Header 6
 
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
+
